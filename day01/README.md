@@ -30,3 +30,4 @@ Create a freestyle pipeline in Jenkins that:
 - Clones a GitHub repository and lists its contents
 - Configure the pipeline to run periodically (e.g., every hour).
 
+  
